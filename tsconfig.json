@@ -14,10 +14,7 @@
     "noEmit": true,
     "paths": {
       "@/*": [
-        "./client/src/*"
-      ],
-      "@shared/*": [
-        "./shared/*"
+        "./src/*"
       ]
     },
     "skipLibCheck": true,
