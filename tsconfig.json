@@ -17,5 +17,5 @@
     "types": ["node", "vite/client"]
   },
   "exclude": ["node_modules", "build", "dist", "**/*.test.ts"],
-  "files": []
+  "include": ["src/**/*.ts", "src/**/*.tsx"]
 }
